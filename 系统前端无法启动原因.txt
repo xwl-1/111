@@ -1,0 +1,4 @@
+node版本过高，https://github.com/coreybutler/nvm-windows/releases  网址进去，下载nvm，安装后，电脑终端运行nvm version查看nvm版本，通过nvm工具降低node版本。电脑终端运行nvm install 14.21.3，安装14版本，安装成功后，运行nvm use 14.21.3永久使用该版本，在运行node -v，查看node版本
+
+cd client  进入目标目录
+npm run serve 启动前端
